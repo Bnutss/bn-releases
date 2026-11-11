@@ -3,18 +3,17 @@
     <channel>
         <title>BN</title>
         <item>
-            <title>0.3.1</title>
-            <pubDate>Wed, 11 Nov 2026 17:12:33 +0500</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+            <title>0.3.2</title>
+            <pubDate>Wed, 11 Nov 2026 17:24:18 +0500</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[## Что нового
 
-- **Перенос в «Программы».** Если BN запущен прямо из окна DMG, он сам предложит переместиться в «Программы» и извлечёт установочный диск. Так автообновление будет работать.
-- **Понятные сообщения** при проверке обновлений: отдельно «нет подключения к интернету» и «сервер обновлений недоступен».
-- Убрана лишняя кнопка «Version History» в окне «У вас всё обновлено».
+- **Исправлено:** остров мог оставаться раскрытым после того, как курсор ушёл, или раскрываться без наведения. Теперь BN сверяется с реальным положением курсора и сворачивается надёжно.
+- Внутренние улучшения проверки обновлений.
 ]]></description>
-            <enclosure url="https://github.com/Bnutss/bn-releases/releases/download/v0.3.1/BN-0.3.1.dmg" length="2393452" type="application/octet-stream" sparkle:edSignature="/zM3bxodMrlDghkxJ6I3jYpza7zxr+bKRrUgZBNSPGSI1tKIIy/NC2LjCncCScVKvCYNuWQNVVhb/503O15/BQ=="/>
+            <enclosure url="https://github.com/Bnutss/bn-releases/releases/download/v0.3.2/BN-0.3.2.dmg" length="2413602" type="application/octet-stream" sparkle:edSignature="t4UHoqV1O9DDBD/zSkJFxA9Au5QcpfvurK3fr09zZH3iy3+6WZKyi2ViAkQpgIH104YqNsKRBk/cmcc77f4SCA=="/>
         </item>
     </channel>
 </rss>

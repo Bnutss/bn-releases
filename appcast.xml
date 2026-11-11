@@ -3,17 +3,18 @@
     <channel>
         <title>BN</title>
         <item>
-            <title>0.3.2</title>
-            <pubDate>Wed, 11 Nov 2026 17:24:18 +0500</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <title>0.3.3</title>
+            <pubDate>Wed, 11 Nov 2026 17:55:55 +0500</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[## Что нового
 
-- **Исправлено:** остров мог оставаться раскрытым после того, как курсор ушёл, или раскрываться без наведения. Теперь BN сверяется с реальным положением курсора и сворачивается надёжно.
-- Внутренние улучшения проверки обновлений.
+- **Компактнее.** Раскрытый остров стал уже (около 9%) и немного ниже.
+- **Плавнее раскрытие.** Убрана заминка в первые доли секунды, анимация без «подскока» и лишних эффектов.
+- Мелкие правки внешнего вида.
 ]]></description>
-            <enclosure url="https://github.com/Bnutss/bn-releases/releases/download/v0.3.2/BN-0.3.2.dmg" length="2413602" type="application/octet-stream" sparkle:edSignature="t4UHoqV1O9DDBD/zSkJFxA9Au5QcpfvurK3fr09zZH3iy3+6WZKyi2ViAkQpgIH104YqNsKRBk/cmcc77f4SCA=="/>
+            <enclosure url="https://github.com/Bnutss/bn-releases/releases/download/v0.3.3/BN-0.3.3.dmg" length="2430858" type="application/octet-stream" sparkle:edSignature="n0/IIuLEan3HzU9xCEQaGyfLEF4LRjQ8Q0oK5vUjH2GpPGBlOB1uDncp90vzmQPNRm+ZKUAqo8fYpFKZTpSxCQ=="/>
         </item>
     </channel>
 </rss>

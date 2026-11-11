@@ -3,18 +3,17 @@
     <channel>
         <title>BN</title>
         <item>
-            <title>0.3.3</title>
-            <pubDate>Wed, 11 Nov 2026 17:55:55 +0500</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+            <title>0.3.4</title>
+            <pubDate>Wed, 11 Nov 2026 18:08:02 +0500</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[## Что нового
 
-- **Компактнее.** Раскрытый остров стал уже (около 9%) и немного ниже.
-- **Плавнее раскрытие.** Убрана заминка в первые доли секунды, анимация без «подскока» и лишних эффектов.
-- Мелкие правки внешнего вида.
+- **Исправлено:** в версии 0.3.3 в свёрнутом виде пропали мини-обложка и анимация воспроизведения (остров был чёрным). Теперь они на месте.
+- **Компактнее.** Раскрытый остров стал ещё уже (на 16 pt), а свёрнутый, с обложкой и анимацией, — на 16 pt уже.
 ]]></description>
-            <enclosure url="https://github.com/Bnutss/bn-releases/releases/download/v0.3.3/BN-0.3.3.dmg" length="2430858" type="application/octet-stream" sparkle:edSignature="n0/IIuLEan3HzU9xCEQaGyfLEF4LRjQ8Q0oK5vUjH2GpPGBlOB1uDncp90vzmQPNRm+ZKUAqo8fYpFKZTpSxCQ=="/>
+            <enclosure url="https://github.com/Bnutss/bn-releases/releases/download/v0.3.4/BN-0.3.4.dmg" length="2442737" type="application/octet-stream" sparkle:edSignature="NDTzZDNmmYr7wSbm5bai5sXrSkuj7xjw6OK9q8kJI8AGZfQA3NT0PkNM40dCdAcEfVkde8g6kCKhxIdadft+BQ=="/>
         </item>
     </channel>
 </rss>

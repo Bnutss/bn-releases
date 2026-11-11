@@ -3,13 +3,18 @@
     <channel>
         <title>BN</title>
         <item>
-            <title>0.3.0</title>
-            <pubDate>Wed, 11 Nov 2026 16:58:21 +0500</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <title>0.3.1</title>
+            <pubDate>Wed, 11 Nov 2026 17:12:33 +0500</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Bnutss/bn-releases/main/BN-0.3.0.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/Bnutss/bn-releases/releases/download/v0.3.0/BN-0.3.0.dmg" length="2363879" type="application/octet-stream" sparkle:edSignature="cbeKEF4zgN9YIIRM4vZOHJnSqiloEnMkoXIvLjtU9Q/x/9QSbMbRUFbybiXgeU9BbsaDA62not0g7jGPrlwECQ=="/>
+            <description sparkle:format="markdown"><![CDATA[## Что нового
+
+- **Перенос в «Программы».** Если BN запущен прямо из окна DMG, он сам предложит переместиться в «Программы» и извлечёт установочный диск. Так автообновление будет работать.
+- **Понятные сообщения** при проверке обновлений: отдельно «нет подключения к интернету» и «сервер обновлений недоступен».
+- Убрана лишняя кнопка «Version History» в окне «У вас всё обновлено».
+]]></description>
+            <enclosure url="https://github.com/Bnutss/bn-releases/releases/download/v0.3.1/BN-0.3.1.dmg" length="2393452" type="application/octet-stream" sparkle:edSignature="/zM3bxodMrlDghkxJ6I3jYpza7zxr+bKRrUgZBNSPGSI1tKIIy/NC2LjCncCScVKvCYNuWQNVVhb/503O15/BQ=="/>
         </item>
     </channel>
 </rss>

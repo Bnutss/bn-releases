@@ -3,17 +3,19 @@
     <channel>
         <title>BN</title>
         <item>
-            <title>0.3.4</title>
-            <pubDate>Wed, 11 Nov 2026 18:08:02 +0500</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
+            <title>0.3.5</title>
+            <pubDate>Thu, 12 Nov 2026 10:11:12 +0500</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[## Что нового
 
-- **Исправлено:** в версии 0.3.3 в свёрнутом виде пропали мини-обложка и анимация воспроизведения (остров был чёрным). Теперь они на месте.
-- **Компактнее.** Раскрытый остров стал ещё уже (на 16 pt), а свёрнутый, с обложкой и анимацией, — на 16 pt уже.
+- **Блокировка экрана.** При блокировке и разблокировке Mac чёрный остров больше не «уезжает» вниз и не возвращается тенью — на это время он прячется.
+- **Раскрытие при медленном подводе мыши.** Остров теперь раскрывается при любой скорости движения курсора, а не только при быстром.
+- **Ровный контур челки.** В покое остров целиком прячется за вырезом: края челки не меняются при блокировке и разблокировке.
+- **Меню.** У пункта «Выйти из BN» убран лишний значок «×».
 ]]></description>
-            <enclosure url="https://github.com/Bnutss/bn-releases/releases/download/v0.3.4/BN-0.3.4.dmg" length="2442737" type="application/octet-stream" sparkle:edSignature="NDTzZDNmmYr7wSbm5bai5sXrSkuj7xjw6OK9q8kJI8AGZfQA3NT0PkNM40dCdAcEfVkde8g6kCKhxIdadft+BQ=="/>
+            <enclosure url="https://github.com/Bnutss/bn-releases/releases/download/v0.3.5/BN-0.3.5.dmg" length="2459954" type="application/octet-stream" sparkle:edSignature="j37vza65P3oNfSn3JYG9JyYyS5RHEkMCgIvWl4WQr19lto2WINCp/BRxiPskPGaAB0LHa/UxY86h+zpXr3PGDQ=="/>
         </item>
     </channel>
 </rss>
